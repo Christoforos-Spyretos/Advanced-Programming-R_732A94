@@ -1,0 +1,11 @@
+--- re-building ‘Lab6package.Rmd’ using rmarkdown
+Quitting from lines 107-109 (Lab6package.Rmd) 
+Error: processing vignette 'Lab6package.Rmd' failed with diagnostics:
+12 simultaneous processes spawned
+--- failed re-building ‘Lab6package.Rmd’
+
+SUMMARY: processing the following file failed:
+  ‘Lab6package.Rmd’
+
+Error: Vignette re-building failed.
+Execution halted
